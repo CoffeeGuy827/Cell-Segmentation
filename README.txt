@@ -5,3 +5,9 @@
 
 2) HPA
 - https://www.kaggle.com/c/human-protein-atlas-image-classification/data
+
+3) Consep
+- https://warwick.ac.uk/fac/cross_fac/tia/data/hovernet/consep.zip
+
+4) Kumar 5) CPM17
+- https://drive.google.com/drive/folders/1l55cv3DuY-f7-JotDN7N5nbNnjbLWchK
